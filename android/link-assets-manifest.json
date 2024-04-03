@@ -1,0 +1,189 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Jost-Black.ttf",
+      "sha1": "89d1e3d1c18465f17ff6c1f3c9e97661543c4177"
+    },
+    {
+      "path": "assets/fonts/Jost-Bold.ttf",
+      "sha1": "15c306309ab5e093c973fab0ba1ef88a7012cc2d"
+    },
+    {
+      "path": "assets/fonts/Jost-ExtraBold.ttf",
+      "sha1": "87f508a395ce233b60598404f9cc3a744453ed09"
+    },
+    {
+      "path": "assets/fonts/Jost-ExtraLight.ttf",
+      "sha1": "54be3cc77c6549782292202b0027781060fe24ee"
+    },
+    {
+      "path": "assets/fonts/Jost-Light.ttf",
+      "sha1": "0a74ba8a7ed541d221586110aab21dfd5a3abd94"
+    },
+    {
+      "path": "assets/fonts/Jost-Medium.ttf",
+      "sha1": "7e9d55841807a5eeb3ba6a1dfb0607b8a72742c7"
+    },
+    {
+      "path": "assets/fonts/Jost-Regular.ttf",
+      "sha1": "b22e9ed8eb939a7d7f4c4044f94e981ff57818e6"
+    },
+    {
+      "path": "assets/fonts/Jost-SemiBold.ttf",
+      "sha1": "04165a9fe78bef66820e3c57dd19cb9b40bcbd88"
+    },
+    {
+      "path": "assets/fonts/Jost-Thin.ttf",
+      "sha1": "906c920f0fd99d4032bffa25fab8f261471c47a5"
+    },
+    {
+      "path": "assets/image/account_background.png",
+      "sha1": "6d3fef75f793deb8f87fec1e55e7e3131412a453"
+    },
+    {
+      "path": "assets/image/add_user.png",
+      "sha1": "c8805f91072f8ee5fd7b1aa66bb5a0e48de07ea0"
+    },
+    {
+      "path": "assets/image/back_arrow.png",
+      "sha1": "aac250778387572086c693368c8d8a718f22104f"
+    },
+    {
+      "path": "assets/image/back_one.png",
+      "sha1": "75bb49a00bae3747ace9ae58d5ea1856fdd23563"
+    },
+    {
+      "path": "assets/image/bitcoin.png",
+      "sha1": "e7ddde1d40c377e8a4fa9a1453660f1533933701"
+    },
+    {
+      "path": "assets/image/bitcoin_image.jpg",
+      "sha1": "5ee58c7f2e0d7f2f5c898d76d084d53f7bb9e37c"
+    },
+    {
+      "path": "assets/image/chart.png",
+      "sha1": "b1ae8ab56de862a15db9c0a89b1dee29434c505e"
+    },
+    {
+      "path": "assets/image/circle.png",
+      "sha1": "1d587e8f07711dcb6d6a24a33c29afbbfc427ca1"
+    },
+    {
+      "path": "assets/image/circle_org.png",
+      "sha1": "f96816bd2ccfc9b1492f3fb6bbc6598b49273162"
+    },
+    {
+      "path": "assets/image/forgot_password.png",
+      "sha1": "105eaddc012048bc70cf90d1d573380d2822a025"
+    },
+    {
+      "path": "assets/image/google.png",
+      "sha1": "2270c9092249638db2b8afdcdb3076d9f9528e36"
+    },
+    {
+      "path": "assets/image/home.png",
+      "sha1": "aff557df7db65724f5559d2eb6976a19d81341ba"
+    },
+    {
+      "path": "assets/image/icon.png",
+      "sha1": "3f71f5a8458c06b83424cc33e1f2481f601199ea"
+    },
+    {
+      "path": "assets/image/logo.png",
+      "sha1": "d5b53104b55ded0160614ea3394aa55bb232cfbc"
+    },
+    {
+      "path": "assets/image/menu.png",
+      "sha1": "35254b1cd916014d31957147e7f4f23589f7b930"
+    },
+    {
+      "path": "assets/image/menu_white.png",
+      "sha1": "56b62cc5c8dfdae9b0e70c4dda60700c5d4067d7"
+    },
+    {
+      "path": "assets/image/notification.png",
+      "sha1": "9f83ee328fea4e5976270deccf687f46fe457b46"
+    },
+    {
+      "path": "assets/image/notification_white.png",
+      "sha1": "5146a775ce9f7c3c640c4e21a04aa14a4560d8c9"
+    },
+    {
+      "path": "assets/image/notification_white50.png",
+      "sha1": "377c2955bf71887b418f9579b0284c0000ac132a"
+    },
+    {
+      "path": "assets/image/o_one.png",
+      "sha1": "dbca22161f243677f4bfdff6a291ac8436600198"
+    },
+    {
+      "path": "assets/image/o_three.png",
+      "sha1": "427758af0eee19c162263ff5839ed8c9e39850c9"
+    },
+    {
+      "path": "assets/image/o_two.png",
+      "sha1": "422e9f2634d679f4e7b70d969361c07c034f2492"
+    },
+    {
+      "path": "assets/image/onboarding.png",
+      "sha1": "6e1da9a80180b8c98a2d39d08632de90b47aaac6"
+    },
+    {
+      "path": "assets/image/person.jpeg",
+      "sha1": "2eb9a457c4cfcf23a1431844adb0c87836927f08"
+    },
+    {
+      "path": "assets/image/profile.png",
+      "sha1": "daef33b7820d2ba20d78d30cf4a5527965de0acb"
+    },
+    {
+      "path": "assets/image/round_bg.png",
+      "sha1": "59db6248f48d01f0f14fe79fb17e8f7c3258ac64"
+    },
+    {
+      "path": "assets/image/search.png",
+      "sha1": "5483bf714440a4af035f78db09e0c290c2b78262"
+    },
+    {
+      "path": "assets/image/search_white.png",
+      "sha1": "6fa6dfe2f1f529fbbdba949c5cd8de860f664115"
+    },
+    {
+      "path": "assets/image/shield.png",
+      "sha1": "608443553b5365a38681a42bf133dc44f5225ee0"
+    },
+    {
+      "path": "assets/image/splashscreen.png",
+      "sha1": "8a375cf16b8716b21bae88007b0f88a00c0ab2cd"
+    },
+    {
+      "path": "assets/image/successfully-done.json",
+      "sha1": "fda709541a8a01bc0e90d5694b59b9775db04e1e"
+    },
+    {
+      "path": "assets/image/up_down.png",
+      "sha1": "3cf71e06b70da85f4394db7b28da2767a47797df"
+    },
+    {
+      "path": "assets/image/user_placeholder.png",
+      "sha1": "9485b24e7b93f6f63c57e7e568f98c79671af7f5"
+    },
+    {
+      "path": "assets/image/wallet.png",
+      "sha1": "a9bfb45d773f5c683b7249ed88a67fdd77f71043"
+    },
+    {
+      "path": "assets/image/wallet_nav.png",
+      "sha1": "805bf15e4defbead9ea0a9bddabe690d83acef2e"
+    },
+    {
+      "path": "assets/image/wallet_two.png",
+      "sha1": "6165a3d0d8fc1632207374b8e3b4f65c1a51ed1e"
+    },
+    {
+      "path": "assets/image/white_ss.png",
+      "sha1": "5f0b031ef999f2fefb0c85a2395b38f2ed87aae9"
+    }
+  ]
+}

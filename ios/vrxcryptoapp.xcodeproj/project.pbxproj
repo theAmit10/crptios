@@ -8,12 +8,58 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* vrxcryptoappTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* vrxcryptoappTests.m */; };
+		040F941DCBD64012A9124582 /* notification.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C9F14DE9A34234A86B727A /* notification.png */; };
 		0C80B921A6F3F58F76C31292 /* libPods-vrxcryptoapp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-vrxcryptoapp.a */; };
+		10706A6C0ADB409D987C86EA /* o_three.png in Resources */ = {isa = PBXBuildFile; fileRef = 532D1137FD6D4DA38F5DA8D8 /* o_three.png */; };
+		11AAE52AD71649D298DE20E5 /* Jost-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BE1FDB9F45147089EE12086 /* Jost-SemiBold.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		147B7CF0D83C4B9DB2E18D2F /* white_ss.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C5C230CCAA14B4CAD91402E /* white_ss.png */; };
+		165A40F2465C44388FC16440 /* back_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 99C30AECB66F47E19AF49EDB /* back_arrow.png */; };
+		179EF56DCA60459FB6CC6B3B /* round_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E179F261058496E978C9451 /* round_bg.png */; };
+		1C100424B59142258A0313BF /* shield.png in Resources */ = {isa = PBXBuildFile; fileRef = 245BF8A2529B4418927A3716 /* shield.png */; };
+		1DB596868013441395BC1FAC /* person.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CFA91DD66E1B44499C007564 /* person.jpeg */; };
+		294C100D08B74EF1B22A9013 /* Jost-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4835AF8CCA444D7B4A62104 /* Jost-Light.ttf */; };
+		29A0E200725D4400ACE97306 /* chart.png in Resources */ = {isa = PBXBuildFile; fileRef = E0014A486E1747D789002C8E /* chart.png */; };
+		2A20DC0936A34741AADE3F92 /* search_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B668F000EAD43EEBDBF9819 /* search_white.png */; };
+		2E23259E238A4839AA204CDA /* Jost-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DECE0BD34A70408EBA2F4453 /* Jost-ExtraLight.ttf */; };
+		30710EFBD31E4DC593F989D7 /* Jost-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1F287273C7344BE98E3BB7D0 /* Jost-Regular.ttf */; };
+		3C68E2EA7F814735B438D39E /* wallet.png in Resources */ = {isa = PBXBuildFile; fileRef = 102CBCA9175C4DB992341180 /* wallet.png */; };
+		3D59172ED75E4AEBB923BDD2 /* Jost-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86201B5893CB47BBAC2E6D7A /* Jost-Black.ttf */; };
+		40794D2198C840F8AB334076 /* Jost-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2803979DA8204AC583736149 /* Jost-Thin.ttf */; };
+		4308152A17014BC487FEF4FC /* circle_org.png in Resources */ = {isa = PBXBuildFile; fileRef = 377C4742FEA94ADFA3284CCE /* circle_org.png */; };
+		57C71FA124E94D5DB2E10641 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DE5DF02D3A7444886965C8A /* search.png */; };
+		580FC739500648189B3946D7 /* back_one.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D834B4163E94F00A3BCC786 /* back_one.png */; };
+		697929B69E8C45EE9528A818 /* forgot_password.png in Resources */ = {isa = PBXBuildFile; fileRef = A968E428EDD044A09E084C34 /* forgot_password.png */; };
+		6C1CEC1DAD574F5794A4416F /* successfully-done.json in Resources */ = {isa = PBXBuildFile; fileRef = 7FF9D6021BDE46B784A37F21 /* successfully-done.json */; };
+		732271F3084F4B00BF761F59 /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 45D5090705F64A50B583BB8F /* profile.png */; };
 		7699B88040F8A987B510C191 /* libPods-vrxcryptoapp-vrxcryptoappTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-vrxcryptoapp-vrxcryptoappTests.a */; };
+		7B8568BECB9841649CCF2585 /* onboarding.png in Resources */ = {isa = PBXBuildFile; fileRef = 9453ACF6C2C64135A55E6104 /* onboarding.png */; };
+		7CA72CE9958C4485960433D9 /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 45F1D6A20BC340C7A726B7C0 /* circle.png */; };
+		7DED7C5FDABF4A48A7D7D9F3 /* Jost-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 187B4BABF3064F5587FEAA38 /* Jost-ExtraBold.ttf */; };
+		7F3855CD58A64F7BBC5241F8 /* wallet_two.png in Resources */ = {isa = PBXBuildFile; fileRef = 60989073F03446DDBBF0AC28 /* wallet_two.png */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8CE99CC63C684A45B44E90B5 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E1E29E01BB2F4ED09F06F876 /* icon.png */; };
+		938CCD32599D413AB54D106C /* o_two.png in Resources */ = {isa = PBXBuildFile; fileRef = C5C2F6BD04844222A384682F /* o_two.png */; };
+		948BBB3C949D4DB3B7E8A276 /* bitcoin.png in Resources */ = {isa = PBXBuildFile; fileRef = 9341184B22334CD98A99454D /* bitcoin.png */; };
+		95B0FDDD997C4D2884143046 /* up_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 114970F9B4CA4978B63C0B31 /* up_down.png */; };
+		988125A1938E47FBBB13719B /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = C1417E689D984C3DA3640ABF /* menu.png */; };
+		A0B14A32FFE84E59B9C4FFEE /* user_placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EAD3E56603F4A8E9F85BF18 /* user_placeholder.png */; };
+		A2EF41303ACA4DE28FB4BAD4 /* notification_white50.png in Resources */ = {isa = PBXBuildFile; fileRef = 957F77D3F6CF479BBFA007C1 /* notification_white50.png */; };
+		AA1F669DF35649F78F371748 /* google.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D308215456E489A89ABADB6 /* google.png */; };
+		AF02F593004D403CB5CF0935 /* splashscreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 915C5B34BE4E4D1E8BC4E98B /* splashscreen.png */; };
+		B4BBA9D0188C4AB082DCD509 /* notification_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 78424750BB394A1999D1990A /* notification_white.png */; };
+		B77A1040036C4E2A9F2DBDDB /* Jost-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F50213D5E0544504A380B46F /* Jost-Medium.ttf */; };
+		B83D74FF87A14E338B498681 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E4D7F71A9954B99BB9765A7 /* logo.png */; };
+		C03EB9A1F8564E05BFC38A8A /* account_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 40B940E438CE45D08ED8797E /* account_background.png */; };
+		CACD89FB5EC44BF0B351ECA6 /* Jost-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 923CE8B181A24485AC2A7BE1 /* Jost-Bold.ttf */; };
+		D835722029D444849195571A /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 36B037ED635046718E31BFCE /* home.png */; };
+		DDD06420D69E4702905D8566 /* bitcoin_image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AA14E87ED8642D3A5D7A106 /* bitcoin_image.jpg */; };
+		E6196FE57F6440B88878F2FD /* o_one.png in Resources */ = {isa = PBXBuildFile; fileRef = C20659362D314C418CAF9660 /* o_one.png */; };
+		F9B94987E1AE4DB3856FA50D /* add_user.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EE8C72F732842A89DB5E601 /* add_user.png */; };
+		FCC7886B262F4F33AD4C0665 /* menu_white.png in Resources */ = {isa = PBXBuildFile; fileRef = E5A6E46F9A79460BA2384F26 /* menu_white.png */; };
+		FE0852456703402FAE752C0A /* wallet_nav.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A0019B468824B1F82FCE005 /* wallet_nav.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,20 +76,66 @@
 		00E356EE1AD99517003FC87E /* vrxcryptoappTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = vrxcryptoappTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* vrxcryptoappTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vrxcryptoappTests.m; sourceTree = "<group>"; };
+		102CBCA9175C4DB992341180 /* wallet.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = wallet.png; path = ../assets/image/wallet.png; sourceTree = "<group>"; };
+		114970F9B4CA4978B63C0B31 /* up_down.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = up_down.png; path = ../assets/image/up_down.png; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* vrxcryptoapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vrxcryptoapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = vrxcryptoapp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = vrxcryptoapp/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = vrxcryptoapp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = vrxcryptoapp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = vrxcryptoapp/main.m; sourceTree = "<group>"; };
+		187B4BABF3064F5587FEAA38 /* Jost-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-ExtraBold.ttf"; path = "../assets/fonts/Jost-ExtraBold.ttf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-vrxcryptoapp-vrxcryptoappTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-vrxcryptoapp-vrxcryptoappTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D308215456E489A89ABADB6 /* google.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = google.png; path = ../assets/image/google.png; sourceTree = "<group>"; };
+		1EAD3E56603F4A8E9F85BF18 /* user_placeholder.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = user_placeholder.png; path = ../assets/image/user_placeholder.png; sourceTree = "<group>"; };
+		1F287273C7344BE98E3BB7D0 /* Jost-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-Regular.ttf"; path = "../assets/fonts/Jost-Regular.ttf"; sourceTree = "<group>"; };
+		245BF8A2529B4418927A3716 /* shield.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = shield.png; path = ../assets/image/shield.png; sourceTree = "<group>"; };
+		2803979DA8204AC583736149 /* Jost-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-Thin.ttf"; path = "../assets/fonts/Jost-Thin.ttf"; sourceTree = "<group>"; };
+		2C5C230CCAA14B4CAD91402E /* white_ss.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = white_ss.png; path = ../assets/image/white_ss.png; sourceTree = "<group>"; };
+		36B037ED635046718E31BFCE /* home.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = home.png; path = ../assets/image/home.png; sourceTree = "<group>"; };
+		377C4742FEA94ADFA3284CCE /* circle_org.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = circle_org.png; path = ../assets/image/circle_org.png; sourceTree = "<group>"; };
+		3A0019B468824B1F82FCE005 /* wallet_nav.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = wallet_nav.png; path = ../assets/image/wallet_nav.png; sourceTree = "<group>"; };
+		3AA14E87ED8642D3A5D7A106 /* bitcoin_image.jpg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bitcoin_image.jpg; path = ../assets/image/bitcoin_image.jpg; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-vrxcryptoapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vrxcryptoapp.debug.xcconfig"; path = "Target Support Files/Pods-vrxcryptoapp/Pods-vrxcryptoapp.debug.xcconfig"; sourceTree = "<group>"; };
+		40B940E438CE45D08ED8797E /* account_background.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = account_background.png; path = ../assets/image/account_background.png; sourceTree = "<group>"; };
+		45D5090705F64A50B583BB8F /* profile.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = profile.png; path = ../assets/image/profile.png; sourceTree = "<group>"; };
+		45F1D6A20BC340C7A726B7C0 /* circle.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = circle.png; path = ../assets/image/circle.png; sourceTree = "<group>"; };
+		532D1137FD6D4DA38F5DA8D8 /* o_three.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = o_three.png; path = ../assets/image/o_three.png; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-vrxcryptoapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vrxcryptoapp.release.xcconfig"; path = "Target Support Files/Pods-vrxcryptoapp/Pods-vrxcryptoapp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-vrxcryptoapp-vrxcryptoappTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vrxcryptoapp-vrxcryptoappTests.debug.xcconfig"; path = "Target Support Files/Pods-vrxcryptoapp-vrxcryptoappTests/Pods-vrxcryptoapp-vrxcryptoappTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-vrxcryptoapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-vrxcryptoapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EE8C72F732842A89DB5E601 /* add_user.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = add_user.png; path = ../assets/image/add_user.png; sourceTree = "<group>"; };
+		60989073F03446DDBBF0AC28 /* wallet_two.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = wallet_two.png; path = ../assets/image/wallet_two.png; sourceTree = "<group>"; };
+		6BE1FDB9F45147089EE12086 /* Jost-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-SemiBold.ttf"; path = "../assets/fonts/Jost-SemiBold.ttf"; sourceTree = "<group>"; };
+		78424750BB394A1999D1990A /* notification_white.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = notification_white.png; path = ../assets/image/notification_white.png; sourceTree = "<group>"; };
+		7E4D7F71A9954B99BB9765A7 /* logo.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = logo.png; path = ../assets/image/logo.png; sourceTree = "<group>"; };
+		7FF9D6021BDE46B784A37F21 /* successfully-done.json */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "successfully-done.json"; path = "../assets/image/successfully-done.json"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = vrxcryptoapp/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86201B5893CB47BBAC2E6D7A /* Jost-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-Black.ttf"; path = "../assets/fonts/Jost-Black.ttf"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-vrxcryptoapp-vrxcryptoappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vrxcryptoapp-vrxcryptoappTests.release.xcconfig"; path = "Target Support Files/Pods-vrxcryptoapp-vrxcryptoappTests/Pods-vrxcryptoapp-vrxcryptoappTests.release.xcconfig"; sourceTree = "<group>"; };
+		8E179F261058496E978C9451 /* round_bg.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = round_bg.png; path = ../assets/image/round_bg.png; sourceTree = "<group>"; };
+		915C5B34BE4E4D1E8BC4E98B /* splashscreen.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = splashscreen.png; path = ../assets/image/splashscreen.png; sourceTree = "<group>"; };
+		923CE8B181A24485AC2A7BE1 /* Jost-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-Bold.ttf"; path = "../assets/fonts/Jost-Bold.ttf"; sourceTree = "<group>"; };
+		9341184B22334CD98A99454D /* bitcoin.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = bitcoin.png; path = ../assets/image/bitcoin.png; sourceTree = "<group>"; };
+		9453ACF6C2C64135A55E6104 /* onboarding.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = onboarding.png; path = ../assets/image/onboarding.png; sourceTree = "<group>"; };
+		957F77D3F6CF479BBFA007C1 /* notification_white50.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = notification_white50.png; path = ../assets/image/notification_white50.png; sourceTree = "<group>"; };
+		99C30AECB66F47E19AF49EDB /* back_arrow.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = back_arrow.png; path = ../assets/image/back_arrow.png; sourceTree = "<group>"; };
+		9B668F000EAD43EEBDBF9819 /* search_white.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = search_white.png; path = ../assets/image/search_white.png; sourceTree = "<group>"; };
+		9D834B4163E94F00A3BCC786 /* back_one.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = back_one.png; path = ../assets/image/back_one.png; sourceTree = "<group>"; };
+		9DE5DF02D3A7444886965C8A /* search.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = search.png; path = ../assets/image/search.png; sourceTree = "<group>"; };
+		A4835AF8CCA444D7B4A62104 /* Jost-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-Light.ttf"; path = "../assets/fonts/Jost-Light.ttf"; sourceTree = "<group>"; };
+		A968E428EDD044A09E084C34 /* forgot_password.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = forgot_password.png; path = ../assets/image/forgot_password.png; sourceTree = "<group>"; };
+		C1417E689D984C3DA3640ABF /* menu.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = menu.png; path = ../assets/image/menu.png; sourceTree = "<group>"; };
+		C20659362D314C418CAF9660 /* o_one.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = o_one.png; path = ../assets/image/o_one.png; sourceTree = "<group>"; };
+		C4C9F14DE9A34234A86B727A /* notification.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = notification.png; path = ../assets/image/notification.png; sourceTree = "<group>"; };
+		C5C2F6BD04844222A384682F /* o_two.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = o_two.png; path = ../assets/image/o_two.png; sourceTree = "<group>"; };
+		CFA91DD66E1B44499C007564 /* person.jpeg */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = person.jpeg; path = ../assets/image/person.jpeg; sourceTree = "<group>"; };
+		DECE0BD34A70408EBA2F4453 /* Jost-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-ExtraLight.ttf"; path = "../assets/fonts/Jost-ExtraLight.ttf"; sourceTree = "<group>"; };
+		E0014A486E1747D789002C8E /* chart.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = chart.png; path = ../assets/image/chart.png; sourceTree = "<group>"; };
+		E1E29E01BB2F4ED09F06F876 /* icon.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = icon.png; path = ../assets/image/icon.png; sourceTree = "<group>"; };
+		E5A6E46F9A79460BA2384F26 /* menu_white.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = menu_white.png; path = ../assets/image/menu_white.png; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F50213D5E0544504A380B46F /* Jost-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Jost-Medium.ttf"; path = "../assets/fonts/Jost-Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +198,59 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		59028848282B43EC9E9FA571 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				86201B5893CB47BBAC2E6D7A /* Jost-Black.ttf */,
+				923CE8B181A24485AC2A7BE1 /* Jost-Bold.ttf */,
+				187B4BABF3064F5587FEAA38 /* Jost-ExtraBold.ttf */,
+				DECE0BD34A70408EBA2F4453 /* Jost-ExtraLight.ttf */,
+				A4835AF8CCA444D7B4A62104 /* Jost-Light.ttf */,
+				F50213D5E0544504A380B46F /* Jost-Medium.ttf */,
+				1F287273C7344BE98E3BB7D0 /* Jost-Regular.ttf */,
+				6BE1FDB9F45147089EE12086 /* Jost-SemiBold.ttf */,
+				2803979DA8204AC583736149 /* Jost-Thin.ttf */,
+				40B940E438CE45D08ED8797E /* account_background.png */,
+				5EE8C72F732842A89DB5E601 /* add_user.png */,
+				99C30AECB66F47E19AF49EDB /* back_arrow.png */,
+				9D834B4163E94F00A3BCC786 /* back_one.png */,
+				9341184B22334CD98A99454D /* bitcoin.png */,
+				3AA14E87ED8642D3A5D7A106 /* bitcoin_image.jpg */,
+				E0014A486E1747D789002C8E /* chart.png */,
+				45F1D6A20BC340C7A726B7C0 /* circle.png */,
+				377C4742FEA94ADFA3284CCE /* circle_org.png */,
+				A968E428EDD044A09E084C34 /* forgot_password.png */,
+				1D308215456E489A89ABADB6 /* google.png */,
+				36B037ED635046718E31BFCE /* home.png */,
+				E1E29E01BB2F4ED09F06F876 /* icon.png */,
+				7E4D7F71A9954B99BB9765A7 /* logo.png */,
+				C1417E689D984C3DA3640ABF /* menu.png */,
+				E5A6E46F9A79460BA2384F26 /* menu_white.png */,
+				C4C9F14DE9A34234A86B727A /* notification.png */,
+				78424750BB394A1999D1990A /* notification_white.png */,
+				957F77D3F6CF479BBFA007C1 /* notification_white50.png */,
+				C20659362D314C418CAF9660 /* o_one.png */,
+				532D1137FD6D4DA38F5DA8D8 /* o_three.png */,
+				C5C2F6BD04844222A384682F /* o_two.png */,
+				9453ACF6C2C64135A55E6104 /* onboarding.png */,
+				CFA91DD66E1B44499C007564 /* person.jpeg */,
+				45D5090705F64A50B583BB8F /* profile.png */,
+				8E179F261058496E978C9451 /* round_bg.png */,
+				9DE5DF02D3A7444886965C8A /* search.png */,
+				9B668F000EAD43EEBDBF9819 /* search_white.png */,
+				245BF8A2529B4418927A3716 /* shield.png */,
+				915C5B34BE4E4D1E8BC4E98B /* splashscreen.png */,
+				7FF9D6021BDE46B784A37F21 /* successfully-done.json */,
+				114970F9B4CA4978B63C0B31 /* up_down.png */,
+				1EAD3E56603F4A8E9F85BF18 /* user_placeholder.png */,
+				102CBCA9175C4DB992341180 /* wallet.png */,
+				3A0019B468824B1F82FCE005 /* wallet_nav.png */,
+				60989073F03446DDBBF0AC28 /* wallet_two.png */,
+				2C5C230CCAA14B4CAD91402E /* white_ss.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +267,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				59028848282B43EC9E9FA571 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -243,6 +389,52 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				3D59172ED75E4AEBB923BDD2 /* Jost-Black.ttf in Resources */,
+				CACD89FB5EC44BF0B351ECA6 /* Jost-Bold.ttf in Resources */,
+				7DED7C5FDABF4A48A7D7D9F3 /* Jost-ExtraBold.ttf in Resources */,
+				2E23259E238A4839AA204CDA /* Jost-ExtraLight.ttf in Resources */,
+				294C100D08B74EF1B22A9013 /* Jost-Light.ttf in Resources */,
+				B77A1040036C4E2A9F2DBDDB /* Jost-Medium.ttf in Resources */,
+				30710EFBD31E4DC593F989D7 /* Jost-Regular.ttf in Resources */,
+				11AAE52AD71649D298DE20E5 /* Jost-SemiBold.ttf in Resources */,
+				40794D2198C840F8AB334076 /* Jost-Thin.ttf in Resources */,
+				C03EB9A1F8564E05BFC38A8A /* account_background.png in Resources */,
+				F9B94987E1AE4DB3856FA50D /* add_user.png in Resources */,
+				165A40F2465C44388FC16440 /* back_arrow.png in Resources */,
+				580FC739500648189B3946D7 /* back_one.png in Resources */,
+				948BBB3C949D4DB3B7E8A276 /* bitcoin.png in Resources */,
+				DDD06420D69E4702905D8566 /* bitcoin_image.jpg in Resources */,
+				29A0E200725D4400ACE97306 /* chart.png in Resources */,
+				7CA72CE9958C4485960433D9 /* circle.png in Resources */,
+				4308152A17014BC487FEF4FC /* circle_org.png in Resources */,
+				697929B69E8C45EE9528A818 /* forgot_password.png in Resources */,
+				AA1F669DF35649F78F371748 /* google.png in Resources */,
+				D835722029D444849195571A /* home.png in Resources */,
+				8CE99CC63C684A45B44E90B5 /* icon.png in Resources */,
+				B83D74FF87A14E338B498681 /* logo.png in Resources */,
+				988125A1938E47FBBB13719B /* menu.png in Resources */,
+				FCC7886B262F4F33AD4C0665 /* menu_white.png in Resources */,
+				040F941DCBD64012A9124582 /* notification.png in Resources */,
+				B4BBA9D0188C4AB082DCD509 /* notification_white.png in Resources */,
+				A2EF41303ACA4DE28FB4BAD4 /* notification_white50.png in Resources */,
+				E6196FE57F6440B88878F2FD /* o_one.png in Resources */,
+				10706A6C0ADB409D987C86EA /* o_three.png in Resources */,
+				938CCD32599D413AB54D106C /* o_two.png in Resources */,
+				7B8568BECB9841649CCF2585 /* onboarding.png in Resources */,
+				1DB596868013441395BC1FAC /* person.jpeg in Resources */,
+				732271F3084F4B00BF761F59 /* profile.png in Resources */,
+				179EF56DCA60459FB6CC6B3B /* round_bg.png in Resources */,
+				57C71FA124E94D5DB2E10641 /* search.png in Resources */,
+				2A20DC0936A34741AADE3F92 /* search_white.png in Resources */,
+				1C100424B59142258A0313BF /* shield.png in Resources */,
+				AF02F593004D403CB5CF0935 /* splashscreen.png in Resources */,
+				6C1CEC1DAD574F5794A4416F /* successfully-done.json in Resources */,
+				95B0FDDD997C4D2884143046 /* up_down.png in Resources */,
+				A0B14A32FFE84E59B9C4FFEE /* user_placeholder.png in Resources */,
+				3C68E2EA7F814735B438D39E /* wallet.png in Resources */,
+				FE0852456703402FAE752C0A /* wallet_nav.png in Resources */,
+				7F3855CD58A64F7BBC5241F8 /* wallet_two.png in Resources */,
+				147B7CF0D83C4B9DB2E18D2F /* white_ss.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
